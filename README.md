@@ -43,5 +43,4 @@ Além disso,  vi como o Azure Cosmos DB funciona com uma variedade de APIs popul
 
  [Márcio Adriano | LinkedIn](https://www.linkedin.com/in/mads1974/)
 
-![](C:\Users\deeja\Desktop\Workspace\Criando banco de dados SQL no Azure\Criando banco de dados SQL no Azure.jpg)
 
